@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Frédéric Hannes"
+			"Frédéric Hannes",
+			"Foxtrek_64"
 		]
 	},
-	"ipbloginauth-desc": "Provides an authentication mechanism to log in using Invision Power Board accounts",
+	"ipbloginauth-desc": "Provides an authentication mechanism to log in using Woltlab Burning Board accounts",
 	"unexpected-error": "An unexpected error occurred.",
 	"db-access-error": "Unable to access the specified database.",
 	"no-user-error": "No user found matching the given credentials.",
