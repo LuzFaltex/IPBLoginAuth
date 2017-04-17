@@ -23,7 +23,7 @@ Requirements
 Documentation
 -------------
 
-~~Extensive documentation for the extension can be found on its [mediawiki.org page](https://www.mediawiki.org/wiki/Extension:IPBAuthLogin).
+~~Extensive documentation for the extension can be found on its [mediawiki.org page](https://www.mediawiki.org/wiki/Extension:IPBAuthLogin).~~
 
 License
 -------
